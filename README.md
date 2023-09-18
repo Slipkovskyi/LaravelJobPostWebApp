@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About This webp-app
+## About This web-app
 <img src="public/images/screen.png">
 It Post job web-app where I am training my skill`s:
 <ul>
